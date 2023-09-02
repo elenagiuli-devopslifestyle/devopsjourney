@@ -41,8 +41,8 @@ Dar uma "Star" neste projeto nos ajuda a entender o impacto que estamos causando
 
 ## Mantenedores 👨‍💼
 
-- [@seunome](https://github.com/seunome)
-- [@outrocolaborador](https://github.com/outrocolaborador)
+- Elena Giuli (https://github.com/elenagiuli-devopslifestyle)
+
 
 ## Licença 📝
 
