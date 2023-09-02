@@ -15,9 +15,9 @@ Dar uma "Star" neste projeto nos ajuda a entender o impacto que estamos causando
 
 ## Quem deve usar este repositório?
 
-- 👨‍💻 **Engenheiros de Software**: Aprenda a construir e manter sistemas altamente escaláveis e confiáveis.
-- 🛠️ **Engenheiros DevOps e SRE**: Refine suas habilidades e fique a par das melhores práticas e ferramentas.
-- ☁️ **Arquitetos de Cloud**: Mantenha-se atualizado sobre as melhores práticas em arquiteturas cloud-native.
+- 👨‍💻 **Pessoas Engenheiras de Software**: Aprenda a construir e manter sistemas altamente escaláveis e confiáveis.
+- 🛠️ **Pessoas Engenheiras DevOps e SRE**: Refine suas habilidades e fique a par das melhores práticas e ferramentas.
+- ☁️ **Pessoas Arquitetas de Cloud**: Mantenha-se atualizado sobre as melhores práticas em arquiteturas cloud-native.
 
 ## Tópicos 📘
 
