@@ -21,6 +21,9 @@ Dar uma "Star" neste projeto nos ajuda a entender o impacto que estamos causando
 
 ## Tópicos 📘
 
+>Um dos melhores Repositório de Exercícios DevOps - https://github.com/bregman-arie/devops-exercises
+
+Em construção:
 - **Introdução ao DevOps e SRE**
 - **CI/CD (Integração Contínua e Entrega Contínua)**
 - **Monitoramento e Logs**
