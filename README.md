@@ -25,7 +25,8 @@ Dar uma "Star" neste projeto nos ajuda a entender o impacto que estamos causando
 
 >Roadmap DevOps - https://roadmap.sh/devops
 
-> Reositório com atividades para desenvolver AI Labs (em Inglês) 
+> Repositório com atividades para desenvolver AI Labs (em Inglês):
+https://github.com/jedi4ever/learning-llms-and-genai-for-dev-sec-ops
 
 Em construção:
 - **Introdução ao DevOps e SRE**
